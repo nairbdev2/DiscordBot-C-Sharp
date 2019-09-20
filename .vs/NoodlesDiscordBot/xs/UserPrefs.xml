@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E1064B1E-0F50-4B96-B3B2-23D6B70AA0A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoodlesDiscordBot/CommandClass.cs">
+    <Files>
+      <File FileName="NoodlesDiscordBot/CommandClass.cs" Line="16" Column="6" />
+      <File FileName="NoodlesDiscordBot/Program.cs" Line="26" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NoodlesDiscordBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
